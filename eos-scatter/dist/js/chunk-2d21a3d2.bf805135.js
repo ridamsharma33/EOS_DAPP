@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a3d2"],{bb51:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("v-card-title",{attrs:{"primary-title":""}},[n("h4",[t._v("Welcome to my Dapp main page!")])])},c=[],l={components:{}},r=l,o=n("2877"),p=Object(o["a"])(r,a,c,!1,null,null,null);e["default"]=p.exports}}]);
+//# sourceMappingURL=chunk-2d21a3d2.bf805135.js.map
