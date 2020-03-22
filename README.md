@@ -4,7 +4,6 @@ Working of eosio with eosjs and scatter
 
 These are the source files for the front-end part of my article on HackerNoon: How to integrate Scatter with your EOS Front End
 
-Link to my article: https://hackernoon.com/how-to-build-a-simple-front-end-for-your-eos-smart-contract-3f9289e8146c
 
 ## Project setup
 
